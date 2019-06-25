@@ -1,0 +1,7 @@
+You must include a written description of three observable trends based on the data.
+
+1. Women are a minority of the players at just 14.1%.  But, they account for 15.2% of the revenue.  They tend to spend more per item than men, too.
+
+2. The 20-24 age group is the largest at 44.79. As expected, the largest group of players spends the most in the game.
+
+3. The top 5 most popular games are not the top five most profitable games.  This has to do with the unit price of each item.   
